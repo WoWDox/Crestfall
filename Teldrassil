@@ -1,0 +1,95 @@
+
+Dalaran mobs in Ambermill unattackable.
+
+Ignore says "Dox (your own name) is ignoring you" when whispering someone that has ignored you.
+
+Logout too fast (Time varies, usually takes 7 or 13 seconds)
+
+Rightclicking mob from far away puts me in combat without attacking and deselecting target makes me instantly drop combat.
+
+/who says I'm level 1 when I'm actually level 2 (relog doesnt fix)
+
+Your level is being showed as 1 on char screen even though you are higher level.
+
+Battle Shout (Rank 1&2) doesnt work (doesnt apply buff)
+This might be the same as Spell Reflection Field = Works on partymembers in range but doesnt apply the aura to yourself
+
+
+Uruson @ Starbreeze Village NPCID:14428 (VERY far aggrorange + very long leash and speedhack)
+Also aggroing through floor of 2nd floor of house in SBV and cant path up, resulting in him standing completley still doing nothing until you jump.
+NPC LVL = 7 , Player lvl = 6. GOT VIDEO OF THIS ON MY CHANNEL: https://www.youtube.com/channel/UCGHddRNObNTyTp9QyDy8pAg
+
+Recently Bandaged debuff is being applied as a buff and can be right-clicked off = no debuff CD on bandage
+
+
+Something is bugged @ 58.64, Teldrassil. Entering/leaving combat-loop (no mob to be seen, maybe underground?)
+
+/played is bugged. Shows I played 24 minutes @ level 8 when I have played way more. Not sure when it bugged as I didnt check before I was almost level 8.
+(Think it might reset when server restarts/crash)
+
+Zenn Foulhoof not transforming into a toad after completing "Seek Redemption!"
+
+Feels like mobs are following you for too long when you are trying to flee
+
+Ferocitas the Dream Eater WEIRD PATHING (got stuck in tree) - I BROKE IT // WONT RETURN TO HIS SPAWN SPOT // FIXED BY ATTACKING HIM FROM OUTSIDE TREE AND SLOWLY WALKING BACKWARDS
+
+Cant open "Gnarlpine Necklace"(ITEMID = 8049) to loot "Tallonkais jewel" (ITEMID = 8050) to complete quest "Ferocitas the Dream Eater" (QUESTID = 2459)
+Seems all "openable"-items are bugged and cant be opened and looted. This happens to "Small Barnaclad Clam" too.
+
+Shadow Sprite (NPCID = 2003) not casting Shadow Bolt
+Rascal Sprite (NPCID = 2002) not casting Faerie Fire
+
+Bugged mob @ 53.52 (Fel Rock), leaving / entering combat-loop and no mob to be seen
+
+Bugged pathing @ 52.52 (mobs cant pass over a certain point, resets when you run over it)
+GOT VIDEO OF THIS ON MY CHANNEL: https://www.youtube.com/channel/UCGHddRNObNTyTp9QyDy8pAg
+
+Threggil (NPCID = 14432) VERY LONG AGGRO RANGE. Seems to be all rare spawns so far.
+NPCLVL = 7, PLAYER LVL = 8
+
+NPC PATHING CAN BE BROKEN AND NPCs CAN GET STUCK INSIDE OF OBJECTS (STONES, TREES) IF YOU PULL AND RUN TO THE OTHER SIDE OF THE OBJECT BEFORE THE NPC HAS REACHED YOU
+
+Gnarlpine Defender @ Ban'ethil Hollow fled through ground and got stuck, keeping me in combat and unkillable, also flees through trees, into walls etc
+Gnarlpine Shaman = EVADE BUG IF YOU MOVE OUT OF MELEE RANGE (HAPPEND ONLY ONCE, NOT CONFRIMED) // SAME THING AS ABOVE, CLIPPING THROUGH WORLD/OBJECTS WHEN FLEEING (GETS STUCK)
+(CANT COMPLETE RELICS OF WAKENING + SLEEPING DRUID QUEST BECAUSE OF THIS) GOT VIDEO OF THIS ON MY CHANNEL: https://www.youtube.com/channel/UCGHddRNObNTyTp9QyDy8pAg
+
+Dots make you stop eat/drink
+
+Server wont boot me when I trying to login after crash = cant connect at all
+
+Quest "Tumors" (QUESTID = 923) shows up as grey (at level 10) even though the required level for the quest is 6 (recommended level 9).
+Mobs that you have to kill on the quest range from level 8-11. Gave 585 exp upon completion.
+Follow up : "Return to Denalan" also marked as gray <- Gave 850 exp.
+
+Quest "Crown of the Earth" pt 6 (QUESTID = 934) shows up as grey (at level 10) even though the required level for it is 6. Was also grey at level 9.
+
+Quest "The Glowing Fruit" (QUESTID = 930) shows up as grey at level 9 even though the req. lvl is 6.
+
+Quest "The Enchanted Glade" (QUESTID = 937) is green at level 10 even though it requires level 6 and the mobs you have to kill is 9-11
+
+Quest "Tears of the Moon" (QUESTID = 2518) is grey at level 11, green at 10. Req. lvl is 8. (rewarded 690 exp upon completion even tho it was gray)
+Forgot to check what color the followup head (/facepalm) but it gave me 900exp.
+
+Quest: "Oakenscowl" (QUESTID = 2499) (kill lvl 9 elite) appears as grey in questlog @ level 11 (req. lvl is 8)
+
+Fury Shelda + Blackmoss the Fetid LONG AGGRO RANGE (RARESPAWNS)
+
+Using First Aid on yourself while targeting something/someone makes you turn towards your target as you are casting FA on target and not yourself
+
+Flight Master have green ! even though you have already learned the path
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
